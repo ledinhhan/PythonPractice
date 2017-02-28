@@ -132,3 +132,4 @@ print(sv1.__doc__)
 
 
 import xml.sax
+import xml.dom
